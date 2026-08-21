@@ -1,0 +1,3 @@
+[submodule "skills/chinese-webnovel-skills"]
+	path = skills/chinese-webnovel-skills
+	url = https://github.com/tance-mang/chinese-webnovel-skills.git
